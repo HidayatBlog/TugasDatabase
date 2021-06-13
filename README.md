@@ -1,17 +1,17 @@
 # TugasDatabase 
 #Berikut Tugas Pertemuan Ke 7
  
- ![Relasi](https://user-images.githubusercontent.com/46746119/120345020-f5de0b80-c2ae-11eb-8a3b-fdc8ddb5251a.png)
+![Relasi](https://user-images.githubusercontent.com/46746119/121797030-613eac00-cbd2-11eb-9c12-82a469741a6f.png)
  
- ![database](https://user-images.githubusercontent.com/46746119/120345204-1e660580-c2af-11eb-950d-6657037bd9c0.png)
+ ![Database](https://user-images.githubusercontent.com/46746119/121797025-584dda80-cbd2-11eb-8789-2eade8026296.png)
  
-![Pelanggan](https://user-images.githubusercontent.com/46746119/120345259-2a51c780-c2af-11eb-876c-8ca72156f380.png)
+![Tabel Customer](https://user-images.githubusercontent.com/46746119/121797038-761b3f80-cbd2-11eb-891d-474bd2167515.png)
  
-![Perpustakaan](https://user-images.githubusercontent.com/46746119/120345307-32aa0280-c2af-11eb-84a7-62da9792bd76.png)
+![Tabel Manager](https://user-images.githubusercontent.com/46746119/121797045-816e6b00-cbd2-11eb-97bb-8c63de6083a0.png)
  
-![Transaksi](https://user-images.githubusercontent.com/46746119/120345322-39d11080-c2af-11eb-9028-8fb7924787b4.png)
+![Tabel Admin](https://user-images.githubusercontent.com/46746119/121797033-6ac81400-cbd2-11eb-834d-f0afa1da0e98.png)
  
- ![Table](https://user-images.githubusercontent.com/46746119/120346156-f75c0380-c2af-11eb-806c-29c4d4ea4efd.png)
+ ![Tabel](https://user-images.githubusercontent.com/46746119/121797019-5126cc80-cbd2-11eb-8ef5-1304ff047e94.png)
  
 Penjelasan:
  
@@ -19,9 +19,9 @@ Penjelasan:
  
 #Membuat Table di phpmyadmin
  
-#Membuat 3 kolom : Pelanggan, Perpustakaan, Transaksi 
+#Membuat 3 kolom : customer, manager, admin 
  
-#Merelasi Perpustakaan  dengan pelanggan, dan dilanjutkan dengan proses relai "Cascade" karena setiap perubahan akan otomatis mengikuti 
+#Merelasi admin  dengan customer, dan dilanjutkan dengan proses relai "Cascade" karena setiap perubahan akan otomatis mengikuti 
  
 #Untuk Pengkodean seperti di file Readme
  
